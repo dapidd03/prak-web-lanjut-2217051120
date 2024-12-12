@@ -53,7 +53,7 @@
 
 <body>
     <div class="profile-container">
-        <img src="https://i.pinimg.com/564x/4a/e5/57/4ae557681f61d08c7d44fdd005a423cb.jpg" alt="Safira">
+        <img src="" alt="sipidd">
         <div class="info">
             <strong>Nama:</strong> <?= $nama ?>
         </div>
